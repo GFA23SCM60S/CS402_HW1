@@ -1,7 +1,6 @@
 
 package cs402_hw;
 import java.util.Random;
-import java.util.random.*;
 
 public class hw1_integer_rows {
 	private static int a;

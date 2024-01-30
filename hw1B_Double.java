@@ -1,7 +1,7 @@
 package cs402_hw;
 import java.util.Random;
 
-public class hw1_d {
+public class hw1B_Double {
 	
 	//Function to generate random matrix with float values
 	public static double[][] randMatGenD(int rows, int cols){

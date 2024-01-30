@@ -1,8 +1,7 @@
 package cs402_hw;
 import java.util.Random;
-import java.util.random.*;
 
-public class hw1 {
+public class hw1B_Int {
 	private static int a;
 	//Function to generate random matrix with integer values
 	public static int[][] randMatGen(int rows, int cols){
